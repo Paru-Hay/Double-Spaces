@@ -1,0 +1,5 @@
+text= input("Enter your sentence: ")
+if " " in text:
+    print("Double spaces detected.")
+else:
+       print("No double spaces.")
